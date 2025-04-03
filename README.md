@@ -74,3 +74,14 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/checkka66/checkka66)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=red&lines=>/Hello+world.py;Error:+No+such+file+or+directory;>./hello_world.py;Welcome+to+my+GitHub+profile;My+name+is+Abrahan+Gil;I'm+a+software+developer;process+finished+with+exit+code+0;..." />
+</p>
+# Stats
+[![Scr44gr stats](https://github-readme-stats.vercel.app/api?username=Scr44gr&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+# Skills
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
