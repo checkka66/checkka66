@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/checkka66/checkka66)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=check+word+;que+totoneo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=32&duration=9000&pause=1000&color=8326F7&width=435&lines=check+word+;d+tana" alt="Typing SVG" /></a> 
 </p>
 
 # Stats
