@@ -76,8 +76,9 @@ Here are some ideas to get you started:
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/checkka66/checkka66)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=red&lines=>/Hello+world.py;Error:+No+such+file+or+directory;>./hello_world.py;Welcome+to+my+GitHub+profile;My+name+is+Abrahan+Gil;I'm+a+software+developer;process+finished+with+exit+code+0;..." />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=check+word+;que+totoneo" alt="Typing SVG" /></a>
 </p>
+
 # Stats
 [![Scr44gr stats](https://github-readme-stats.vercel.app/api?username=Scr44gr&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
