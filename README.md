@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 # Stats
 [![checkka66 stats](https://github-readme-stats.vercel.app/api?username=checkka66&count_private=true&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
 
-# Skills
+# Skills check!
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
