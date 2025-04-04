@@ -69,6 +69,9 @@ Here are some ideas to get you started:
 # Stats
 [![checkka66 stats](https://github-readme-stats.vercel.app/api?username=checkka66&count_private=true&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
 
+# Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scr44gr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 # Skills check!
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
